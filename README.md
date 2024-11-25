@@ -11,11 +11,6 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 ---
 
-## 📫 How to Reach Me:
-
-
----
-
 ## 💻 Technologies and Tools
 - **Languages:** Python, JavaScript, SQL, R, HTML, CSS
 - **Frameworks:** TensorFlow, Flask, Node (learning)

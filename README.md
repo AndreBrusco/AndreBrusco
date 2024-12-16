@@ -13,7 +13,7 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 ## 💻 Technologies and Tools
 - **Languages:** Python, JavaScript, SQL, R, HTML, CSS
-- **Frameworks:** TensorFlow, Flask, Node (learning)
+- **Frameworks:** TensorFlow, Flask // TypeScript,Django, Node (learning)
 - **Tools:** Git, Docker, Power BI, QlikSense, SQL 
 - **Platforms:** AWS (learning)
 

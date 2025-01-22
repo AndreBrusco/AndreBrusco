@@ -5,17 +5,19 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 ---
 
 ## About Me
-- 👀 **Interests:** Software development, Artificial Intelligence, data science, machine learning, and cloud-based solutions.
-- 🌱 **Currently learning:** Advanced Python, machine learning frameworks (TensorFlow, Keras), and DevOps technologies.
+- 👀 **Interests:** Software development, Artificial Intelligence, Data Science, Machine Learning,Web Development and cloud-based solutions.
+- 🌱 **Currently learning:** Web Development and cloud-based solutions for improve skills.
 - 💼 **Looking to collaborate on:** Open-source projects, data analysis, web application development (Flask and Node), and AI-based systems.
 
 ---
 
 ## 💻 Technologies and Tools
 - **Languages:** Python, JavaScript, SQL, R, HTML, CSS
-- **Frameworks:** TensorFlow, Flask // TypeScript,Django, Node (learning)
-- **Tools:** Git, Docker, Power BI, QlikSense, SQL 
-- **Platforms:** AWS (learning)
+- **Frameworks:**
+  - **Python:** TensorFlow, Flask, Django
+  - **JavaScript:** TypeScript, Node.js, React, React Native
+- **Tools:** Git, Docker, Power BI, QlikSense, SQL Server, PostgreSQL
+- **Platforms:** AWS (currently learning)
 
 ---
 

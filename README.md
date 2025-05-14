@@ -34,9 +34,9 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
   - Vector Databases: ChromaDB
 
 ---
-## 📊 GitHub Stats
+<h3>📊 Top Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBrusco&layout=compact&theme=tokyonight" width="100%"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBrusco&layout=compact&theme=tokyonight width="100%")
 
 
 

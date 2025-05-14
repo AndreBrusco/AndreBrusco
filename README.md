@@ -36,8 +36,6 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 ---
 ## 📊 GitHub Stats
 
-![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndreBrusco&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBrusco&layout=compact&theme=tokyonight)
 
 

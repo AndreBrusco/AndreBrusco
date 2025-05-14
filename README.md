@@ -12,12 +12,26 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 ---
 
 ## 💻 Technologies and Tools
-- **Languages:** Python, JavaScript, SQL, R, HTML, CSS
-- **Frameworks:**
-  - **Python:** TensorFlow, Flask, Django
+
+- **Languages:**  
+  Python, JavaScript, SQL, R, HTML, CSS
+
+- **Frameworks:**  
+  - **Python:** TensorFlow, Flask, Django  
   - **JavaScript:** TypeScript, Node.js, React, React Native
-- **Tools:** Git, Docker, Power BI, QlikSense, SQL Server, PostgreSQL
-- **Platforms:** AWS (currently learning)
+
+- **Tools:**  
+  Git, Docker, Power BI, QlikSense, SQL Server, PostgreSQL
+
+- **Platforms:**  
+  AWS (currently learning), Microsoft Azure (currently learning)
+
+- **AI Technologies and Frameworks:**  
+  - Large Language Models (LLMs): GPT, LLaMA, DeepSeek  
+  - Retrieval-Augmented Generation (RAG)  
+  - Multi-Party Computation (MPC)  
+  - Multi-Agent Systems  
+  - Vector Databases: ChromaDB
 
 ---
 

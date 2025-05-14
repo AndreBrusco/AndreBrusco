@@ -34,6 +34,13 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
   - Vector Databases: ChromaDB
 
 ---
+## 📊 GitHub Stats
+
+![André's GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreUser&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreUser&layout=compact&theme=tokyonight)
+
+
 
 🌟 **Thanks for visiting my profile!** I’m always open to exchanging ideas and learning something new.  
 Feel free to explore my repositories or reach out to collaborate!

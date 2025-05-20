@@ -27,7 +27,7 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
   AWS (currently learning), Microsoft Azure (currently learning)
 
 - **AI Technologies and Frameworks:**  
-  - Large Language Models (LLMs): GPT, LLaMA, DeepSeek  
+  - Large Language Models (LLMs): GPT, LLaMA, DeepSeek, Gemini
   - Retrieval-Augmented Generation (RAG)  
   - Multi-Party Computation (MPC)  
   - Multi-Agent Systems  

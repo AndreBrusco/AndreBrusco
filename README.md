@@ -6,28 +6,25 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 ## About Me
 - 👀 **Interests:** Software development, Artificial Intelligence, Data Science, Machine Learning,Web Development and cloud-based solutions.
-- 🌱 **Currently learning:** Web Development and cloud-based solutions for improve skills.
-- 💼 **Looking to collaborate on:** Open-source projects, data analysis, web application development (Flask and Node), and AI-based systems.
+- 🌱 **Currently learning:** Cloud-based solutions for improve skills. IA as always.
+- 💼 **Looking to collaborate on:**  AI-based systems,Multi-AI Agents solutions, Cloud Architecture, backend development, and web application development (Flask and Node).
 
 ---
 
 ## 💻 Technologies and Tools
 
 - **Languages:**  
-  Python, JavaScript, SQL, R, HTML, CSS
+  Python, JavaScript, SQL, R, HTML, CSS, Java (working on it)
 
 - **Frameworks:**  
   - **Python:** TensorFlow, Flask, Django  
   - **JavaScript:** TypeScript, Node.js, React, React Native
 
-- **Tools:**  
-  Git, Docker, Power BI, QlikSense, SQL Server, PostgreSQL
-
 - **Platforms:**  
   AWS (currently learning), Microsoft Azure (currently learning)
 
 - **AI Technologies and Frameworks:**  
-  - Large Language Models (LLMs): GPT, LLaMA, DeepSeek, Gemini
+  - Large Language Models (LLMs): GPT, LLaMA, DeepSeek, Gemini, Claude
   - Retrieval-Augmented Generation (RAG)  
   - Multi-Party Computation (MPC)  
   - Multi-Agent Systems  
@@ -37,8 +34,6 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 [![Estatísticas do GitHub de AndreBrusco](https://github-readme-stats.vercel.app/api?username=AndreBrusco&show_icons=true&theme=radical)](https://github.com/AndreBrusco)
 [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=AndreBrusco&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
-
 
 
 <h2 align="center">📊 GitHub Stats</h2>

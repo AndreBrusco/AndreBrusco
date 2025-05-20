@@ -35,11 +35,13 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 ---
 
+[![Estatísticas do GitHub de AndreBrusco](https://github-readme-stats.vercel.app/api?username=AndreBrusco&show_icons=true&theme=radical)](https://github.com/AndreBrusco)
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBrusco&layout=compact&theme=tokyonight" width="70%"/>
+
 </div>
 
 ---

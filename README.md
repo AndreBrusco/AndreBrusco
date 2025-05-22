@@ -32,7 +32,8 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 ---
 
-[![Estatísticas do GitHub de AndreBrusco](https://github-readme-stats.vercel.app/api?username=AndreBrusco&show_icons=true&theme=radical)](https://github.com/AndreBrusco)
+[![Estatísticas do GitHub de AndreBrusco](https://github-readme-stats.vercel.app/api?username=AndreBrusco&show_icons=true&theme=radical&cache_seconds=1)](https://github.com/AndreBrusco)
+
 [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=AndreBrusco&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 

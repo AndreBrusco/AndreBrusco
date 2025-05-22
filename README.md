@@ -28,7 +28,7 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
   - Retrieval-Augmented Generation (RAG)  
   - Multi-Party Computation (MPC)  
   - Multi-Agent Systems  
-  - Vector Databases: ChromaDB
+  - Vector Databases: ChromaDB 
 
 ---
 

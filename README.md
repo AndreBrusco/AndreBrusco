@@ -37,7 +37,7 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 [![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=AndreBrusco&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Stats</h2> 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreBrusco&layout=compact&theme=tokyonight" width="70%"/>

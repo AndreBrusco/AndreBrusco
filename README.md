@@ -25,7 +25,9 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 
 - **AI Technologies and Frameworks:**  
   - Large Language Models (LLMs): GPT, LLaMA, DeepSeek, Gemini, Claude
-  - Retrieval-Augmented Generation (RAG)  
+  - Retrieval-Augmented Generation (RAG)
+  - LangChain
+  - LangGraph 
   - Multi-Party Computation (MPC)  
   - Multi-Agent Systems  
   - Vector Databases: ChromaDB 

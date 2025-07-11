@@ -33,6 +33,13 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 <a href="https://docs.langgraph.dev/" target="_blank">
   <img src="https://img.shields.io/badge/LangGraph-Agents-blueviolet" />
 </a>
+<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+  <img src="https://img.shields.io/badge/SQL-Database-336791?logo=sqlite&logoColor=white" />
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+  <img src="https://img.shields.io/badge/TypeScript-Code-3178c6?logo=typescript&logoColor=white" />
+</a>
+
 
 - **Languages:**  
   Python, JavaScript, SQL, R, HTML, CSS, Java (working on it)

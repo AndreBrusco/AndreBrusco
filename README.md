@@ -12,33 +12,41 @@ Welcome to my GitHub profile! Here you will find projects, studies, and contribu
 ---
 
 ## 💻 Technologies and Tools
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" />
-</a>
-<a href="https://flask.palletsprojects.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Flask-Web-black?logo=flask" />
-</a>
-<a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react" />
-</a>
-<a href="https://platform.openai.com" target="_blank">
-  <img src="https://img.shields.io/badge/GPT-OpenAI-10a37f?logo=openai" />
-</a>
-<a href="https://ai.google.dev" target="_blank">
-  <img src="https://img.shields.io/badge/Gemini-Google-black?logo=google" />
-</a>
-<a href="https://www.langchain.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LangChain-RAG-green" />
-</a>
-<a href="https://docs.langgraph.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/LangGraph-Agents-blueviolet" />
-</a>
-<a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
-  <img src="https://img.shields.io/badge/SQL-Database-336791?logo=sqlite&logoColor=white" />
-</a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-Code-3178c6?logo=typescript&logoColor=white" />
-</a>
+<div style="text-align: center; line-height: 3em;">
+  <!-- Primeira linha -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Flask-Web-black?logo=flask" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/React-JS-61DAFB?logo=react" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://img.shields.io/badge/TypeScript-Code-3178c6?logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-Database-336791?logo=sqlite&logoColor=white" />
+  </a>
+
+  <br>
+
+  <!-- Segunda linha -->
+  <a href="https://platform.openai.com" target="_blank">
+    <img src="https://img.shields.io/badge/GPT-OpenAI-10a37f?logo=openai" />
+  </a>
+  <a href="https://ai.google.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Gemini-Google-black?logo=google" />
+  </a>
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LangChain-RAG-green" />
+  </a>
+  <a href="https://docs.langgraph.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LangGraph-Agents-blueviolet" />
+  </a>
+</div>
+
 
 
 - **Languages:**  
